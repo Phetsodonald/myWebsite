@@ -1,4 +1,5 @@
 import "../styles/About.css";
+import heroImage from "../assets/hero.png";
 
 function About() {
     return (
@@ -9,7 +10,7 @@ function About() {
                     <div className="about-glow"></div>
 
                     <img
-                        src="/src/assets/hero.png"
+                        src={heroImage}
                         alt="Phetso"
                     />
                 </div>
