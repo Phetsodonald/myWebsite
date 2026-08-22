@@ -53,14 +53,14 @@ function Contact() {
                             </a>
 
                             <a
-                                href="https://linkedin.com/phetso-donald-nkosi"
+                                href="www.linkedin.com/in/phetso-donald-nkosi-96565a2a4"
                                 target="_blank"
                                 rel="noreferrer"
                             >
                                 <span>in</span>
                                 <div>
                                     <small>LinkedIn</small>
-                                    <strong>linkedin.com/in/phetso-donald-nkosi</strong>
+                                    <strong>www.linkedin.com/in/phetso-donald-nkosi-96565a2a4</strong>
                                 </div>
                             </a>
 
