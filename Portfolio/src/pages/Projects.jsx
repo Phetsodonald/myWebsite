@@ -1,6 +1,6 @@
 import "../styles/Projects.css";
 
-import bountyFinder from "../assets/node.png";
+import bountyFinder from "../assets/bounty-finder.png";
 import accommodation from "../assets/node.png";
 import library from "../assets/node.png";
 import f1Dashboard from "../assets/node.png";
@@ -13,8 +13,8 @@ function Projects() {
                 "A platform that discovers GitHub issues and opportunities suitable for developers looking to contribute and earn.",
             image: bountyFinder,
             technologies: ["React", "Django", "Python"],
-            github: "#",
-            demo: "#"
+            github: "https://github.com/Phetsodonald/Bounty-finder",
+            demo: "https://bounty-finder.vercel.app/"
         },
         {
             title: "Student Accommodation",
