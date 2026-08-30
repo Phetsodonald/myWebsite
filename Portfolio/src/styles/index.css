@@ -7,6 +7,10 @@
     box-sizing: border-box;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 body {
     font-family: "Poppins", sans-serif;
     background:  #f3f4f5;
@@ -42,6 +46,12 @@ header h1{
 a{
     text-decoration: none;
     color: #111;
+    transition: all 0.37s ease;
+}
+
+a:hover{
+    color: #1677ff;
+    opacity: 0.8;
 }
 
 button,

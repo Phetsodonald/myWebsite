@@ -12,37 +12,11 @@ function Projects() {
             description:
                 "A platform that discovers GitHub issues and opportunities suitable for developers looking to contribute and earn.",
             image: bountyFinder,
-            technologies: ["React", "Django", "Python"],
+            technologies: ["React", "Django", "Python"                                                                                                                                                      ],
             github: "https://github.com/Phetsodonald/Bounty-finder",
             demo: "https://bounty-finder.vercel.app/"
         },
-        {
-            title: "Student Accommodation",
-            description:
-                "A platform connecting students with available accommodation and helping landlords manage their listings.",
-            image: accommodation,
-            technologies: ["React", "Django", "PostgreSQL"],
-            github: "#",
-            demo: "#"
-        },
-        {
-            title: "Library Management System",
-            description:
-                "A JavaScript-based library management system for managing books, members, borrowing and returning.",
-            image: library,
-            technologies: ["JavaScript", "Jest"],
-            github: "#",
-            demo: "#"
-        },
-        {
-            title: "F1 Dashboard",
-            description:
-                "A Formula 1 dashboard displaying race and driver data through an external API.",
-            image: f1Dashboard,
-            technologies: ["JavaScript", "Node.js", "API"],
-            github: "#",
-            demo: "#"
-        }
+        
     ];
 
     return (

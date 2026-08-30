@@ -32,11 +32,11 @@ function Contact() {
 
                         <div className="contact-links">
 
-                            <a href="mailto:phetso.freelance@email.com">
+                            <a href="mailto:donaldphetso69@gmail.com">
                                 <span>✉</span>
                                 <div>
                                     <small>Email</small>
-                                    <strong>phetso.freelance@email.com</strong>
+                                    <strong>donaldphetso69@gmail.com</strong>
                                 </div>
                             </a>
 
@@ -82,6 +82,7 @@ function Contact() {
                                     id="name"
                                     name="name"
                                     placeholder="Your name"
+                                    required
                                 />
                             </div>
 
@@ -95,6 +96,7 @@ function Contact() {
                                     id="email"
                                     name="email"
                                     placeholder="your@email.com"
+                                    required
                                 />
                             </div>
 
@@ -110,6 +112,7 @@ function Contact() {
                                 id="subject"
                                 name="subject"
                                 placeholder="What's this about?"
+                                required
                             />
                         </div>
 
@@ -123,6 +126,7 @@ function Contact() {
                                 name="message"
                                 rows="6"
                                 placeholder="Tell me about your project..."
+                                required
                             ></textarea>
                         </div>
 
